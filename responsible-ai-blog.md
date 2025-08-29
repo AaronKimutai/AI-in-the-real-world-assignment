@@ -28,12 +28,4 @@ Neurodivergent students or those with anxiety might have unusual eye movement or
 ### **One improvement idea**
 Instead of relying only on eye tracking, combine multiple signals (like keyboard activity or exam logs). And most importantly, keep a **human in the loop** — so a teacher makes the final call, not just an algorithm.
 
----
 
-## 📝 **Wrap-up**
-
-Being an AI detective means asking: *Is the system fair? Is it transparent? Is someone accountable?*  
-If the answer is “no,” then it’s time to fix the evidence trail.  
-
-AI can be powerful — but only if we keep it honest.  
-After all, no one wants a robot Sherlock Holmes who arrests the wrong suspect. 🕵️‍♀️
